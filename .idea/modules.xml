@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chess.iml" filepath="$PROJECT_DIR$/Chess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Freshman/CSE 17/ClassWork/ClassWork.iml" filepath="$PROJECT_DIR$/../../Freshman/CSE 17/ClassWork/ClassWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../High School/StudentFiles/Erase/Erase.iml" filepath="$PROJECT_DIR$/../High School/StudentFiles/Erase/Erase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Freshman/CSE 17/Homework/HW1/HW1.iml" filepath="$PROJECT_DIR$/../../Freshman/CSE 17/Homework/HW1/HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Freshman/CSE 17/Homework/HW2/HW2.iml" filepath="$PROJECT_DIR$/../../Freshman/CSE 17/Homework/HW2/HW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Freshman/CSE 17/Programs/Prog1/Prog1.iml" filepath="$PROJECT_DIR$/../../Freshman/CSE 17/Programs/Prog1/Prog1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Freshman/CSE 17/Homework/HW2/TaxCode.iml" filepath="$PROJECT_DIR$/../../Freshman/CSE 17/Homework/HW2/TaxCode.iml" />
+    </modules>
+  </component>
+</project>
